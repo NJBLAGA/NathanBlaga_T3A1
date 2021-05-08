@@ -1,5 +1,7 @@
 # **Workbook - T3A1 - Nathan Blaga**
 
+## **NathanBlaga_T3A1 - GitHub Repo:** https://github.com/NJBLAGA/NathanBlaga_T3A1
+
 ## **Q1 - Provide an overview and description of a standard source control process for a large project.**
 
 “Source control (or version control) refers to tracking and managing changes to code. This ensures that developers are always working on the right version of source code” (Gehman 2019). A good source control workflow relies on several key characteristics;
@@ -1045,6 +1047,7 @@ for (model of models) {
 
 Atlassin, ND, What is version control, atlassian.com, git, tutorials, viewed 7 April 2021,
 https://www.atlassian.com/git/tutorials/what-is-version-control
+
 Ayodeji, B 13 June 2019, How to Manipulate Arrays in JavaScript, freecodecamp.org, new viewed 25 April 2021, https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/#:~:text=push()%20adds%20item
 
 Boceanu, M 11 November 2020, Using Object Manipulation in JavaScript, codehousegroup.com, insight and inspiration, viewed 25 April 2021, https://www.codehousegroup.com/insight-and-inspiration/tech-stream/using-object-manipulation-in-javascript
@@ -1066,15 +1069,21 @@ GeeksforGeeks, ND, JavaScript JSON parse() Method, geeksforgeeks.org, viewed 1 M
 GeeksforGeeks, ND, JavaScript JSON stringify() Method, geeksforgeeks.org, viewed 1 May2021, https://www.geeksforgeeks.org/javascript-json-stringify-method/
 
 GeeksforGeeks, 1 July 2020, What is Type Coercion in JavaScript, geeksforgeeks.org, viewed 11 April 2021, https://www.geeksforgeeks.org/what-is-type-coercion-in-javascript/
+
 Gehman, C 12 September 2019, What is Source Control, perforce.com, blog, viewed 7 April 2021, https://www.perforce.com/blog/vcs/what-source-control
 
 Jasraj, 25 September 2020, MERN Stack, geeksforgeeks.org, viewed 8 April 2021, https://www.geeksforgeeks.org/mern-stack/
+
 Jude, OC 15 June 2018, Control Flow, the JavaScript Approach, medium.com, viewed 10 April 2021, https://medium.com/@alphakoder/control-flow-the-javascript-approach-7fe1703c7284
+
 Kadivar, N 1 November 2018, Top 10 Version Control Systems, hackernoon.com, viewed 7 April 2021, https://hackernoon.com/top-10-version-control-systems-4d314cf7adea
 
 Karnik, N 11 February 2018, Introduction to Mongoose for MongoDB, freecodecmap.org, news, viewed 8 April 2021, https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/
+
 Levit, M 22 May 2018, Importance of Version Control and Why You Need it, medium.com, viewed 7 April 2021, https://medium.com/weareservian/importance-of-version-control-and-why-you-need-it-aae53dac208a
+
 Maayan, G ND, What Software Quality (Really) Is and the Metrics You Can Use to Measure It, altexsoft.com, blog, viewed 7 April 2021, https://www.altexsoft.com/blog/engineering/what-software-quality-really-is-and-the-metrics-you-can-use-to-measure-it/
+
 MDN, ND, Control flow and error handling, developer.mozilla.org, docs, viewed 10 April 2021, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling
 
 MDN, ND, Working with JSON, developer.mozilla.org, docs, viewed 1 May 2021, https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
@@ -1082,6 +1091,7 @@ MDN, ND, Working with JSON, developer.mozilla.org, docs, viewed 1 May 2021, http
 More, S ND, Control STatements in JavaScript, educba.com, viewed 10 April 2021, https://www.educba.com/control-statement-in-javascript/
 
 Reinagel, S 15 November 2016, The Seven Aspects of Software Quality, viewed 7 April 2021, https://www.silasreinagel.com/blog/2016/11/15/the-seven-aspects-of-software-quality/
+
 Simplified, B 15 January 2020, What is MERN Stack, medium.com, viewed 8 April 2021, https://medium.com/@blockchain_simplified/what-is-mern-stack-9c867dbad302
 
 Singh, S 5 September 2018, Understanding Js Data Types, shobhitsingh29.medium.com, viewed 18 April 2021, https://shobhitsingh29.medium.com/understanding-js-data-types-1ac8977ac8ae
