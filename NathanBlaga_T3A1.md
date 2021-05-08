@@ -1047,7 +1047,7 @@ Ayodeji, B 13 June 2019, How to Manipulate Arrays in JavaScript, freecodecamp.or
 
 Boceanu, M 11 November 2020, Using Object Manipulation in JavaScript, codehousegroup.com, insight and inspiration, viewed 25 April 2021, https://www.codehousegroup.com/insight-and-inspiration/tech-stream/using-object-manipulation-in-javascript
 
-Carnes, B 25 June 2019, Learn the MERN stack by building an exercise tracker – MERN Tutorial,medium.com, viewed 8 April 2021, https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+Carnes, B 25 June 2019, Learn the MERN stack by building an exercise tracker – MERN Tutorial, medium.com, viewed 8 April 2021, https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
 
 Choudhary, M 23 November 2019, Introduction to JavaScript: Basics, medium.com, viewed 10 April 2021, https://medium.com/swlh/introduction-to-javascript-basics-cf901c05ca47
 
