@@ -1053,6 +1053,7 @@ Ayodeji, B 13 June 2019, How to Manipulate Arrays in JavaScript, freecodecamp.or
 Boceanu, M 11 November 2020, Using Object Manipulation in JavaScript, codehousegroup.com, insight and inspiration, viewed 25 April 2021, https://www.codehousegroup.com/insight-and-inspiration/tech-stream/using-object-manipulation-in-javascript
 
 Carnes, B 25 June 2019, Learn the MERN stack by building an exercise tracker – MERN Tutorial,medium.com, viewed 8 April 2021, https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+
 Choudhary, M 23 November 2019, Introduction to JavaScript: Basics, medium.com, viewed 10 April 2021, https://medium.com/swlh/introduction-to-javascript-basics-cf901c05ca47
 
 Dr. Rauschmayer, Axel 31 October 2019, Type coercion in JavaScript, 2ality.com, viewed 11 April 2021, https://2ality.com/2019/10/type-coercion.html
@@ -1060,6 +1061,7 @@ Dr. Rauschmayer, Axel 31 October 2019, Type coercion in JavaScript, 2ality.com, 
 Drumond, C ND, Agile Project Management, atlassian.com, agile, viewed 9 April 2021, https://www.atlassian.com/agile/project-management
 
 Editor, M 1 March 2020, What to Choose: Full-Stack vs MEAN Stack in 2020. Mobinius.com, blogs, viewed 8 April 2021, https://www.mobinius.com/blogs/what-to-choose-full-stack-vs-mean-stack-vs-mern-stack-in-2020
+
 Edureka.co, 22 October 2020, What are the different Data TYpes in JavaScript, edureka.co, blog, viewed 18 April 2021, https://www.edureka.co/blog/data-types-in-javascript/
 
 FreeCodeCamp, 17 January 2018, JavaScript type coercion explained, freecodecamp.org, news, viewed 11 April 2021, https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/
