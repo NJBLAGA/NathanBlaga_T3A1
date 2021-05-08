@@ -90,7 +90,6 @@ The fundamental concept behind the MERN Stack is to easily and quickly construct
 
 According to Mobinius Editor 2020, developers who utilise the MERN Stack for their projects do so with various benefits in mind. The MERN Stack provides excellent support for working within a Model View Controller (MVC) architecture. Through the use and access of various frameworks and libraries, most of the grunt work is simplified and easily manageable. Popular testing tools are built within the technologies. One great example is that of Jest within node.js allowing developers to undertake a Test Driven Development approach from the initial inception of the project. The MERN Stack uses open-source frameworks, which in turn allows for customisation, detailed documentation and community support.
 
-
 ![MERN Stack](./img/q3_1_mern_stack.png)
 
 As shown above, The MERN Stack is divided into three tiers, each with their own functions and differing components. Understanding each tier and the technologies that encompass them will help in better understanding how the Stack operates as a whole.
@@ -172,7 +171,6 @@ Finally, the utilisation of third party software such as Cloudinary and Heroku a
 
 ## **Q6 - With reference to one of your own projects, evaluate how effective your knowledge and skills were for this project, and suggest changes or improvements for future projects of a similar nature.**
 
-
 As mentioned above, a variety of skills were implemented and utilised in developing Workout Jungle. The overall effectiveness of the web application itself can be directly attributed to how effective my skills and knowledge of each technology and individual components were.
 
 Although I had an efficient and basic understanding of Ruby as an individual language and within the Rails framework, a critical remark would be my lack of more advanced knowledge and skills within the framework as this disadvantaged my overall ability to develop a more efficient and viable application. Likewise, my lack of knowledge of the inner workings of the MVC architecture limited my scope of the full potential offered by the model. Although it was my first project using Ruby on Rails and an MVC architecture, better utilisation of its documentation and more efficient preparations would have produced a more desirable outcome. The same remarks can be made on the implementation of PostgreSQL. Having limited experience with a relational database resulted in the project not gaining the full benefits of utilising such a powerful tool. Overall, the knowledge and skills displayed between Ruby on Rails and PostgreSQL within an MVC architecture was sufficient to design, develop and deploy a viable solution to an ongoing problem.
@@ -244,9 +242,7 @@ function petSounds(pet) {
 }
 console.log(petSounds("dog"))
 ```
-The above function ```petSounds``` takes an argument of a string of an animal/pet name. Inside the function we have a switch statement that contains the expression of ```pet```, this expression is checked and compared with each of the cases. If the expression matches with a particular case, the code block inside that case is executed. The ```break``` statements indicate that once a match is found, the code does not run the rest of the statements and terminates once the matched code block is executed. The ```default``` line works similar to ```else``` however it sets a default block of code to be executed if no matches can be found.
-
-Iterative statements also referred to as loops or loop statements, execute code and repeat specified instructions until a given condition or parameter has been satisfied (More). There are three iterative statements:
+The above function ```petSounds``` takes an argument of a string of an animal/pet name. Inside the function we have a switch statement that contains the expression of ```pet```, this expression is checked and compared with each of the cases. If the expression matches with a particular case, the code block inside that case is executed. The ```break``` statements indicate that once a match is found, the code does not run the rest of the statements and terminates once the matched code block is executed. The ```default``` line works similar to ```else``` however it sets a default block of code to be executed if no matches can be found. Iterative statements also referred to as loops or loop statements, execute code and repeat specified instructions until a given condition or parameter has been satisfied (More). There are three iterative statements:
 
 ### **WHILE:**
 
@@ -296,9 +292,7 @@ Jerry is one of my Best Friends!
 
 ## **Q8 - Explain type coercion, using examples from the JavaScript programming language.**
 
-Type Coercion is the process of converting one data type to another (GeeksforGeeks 2020). Type Coercion can be implicit or explicit, the difference being implicit coercion occurs automatically by JavaScript while explicit coercion is explicitly executed through code using the inbuilt functions within JavaScript (FreeCodeCamp 2018).
-
-Whenever JavaScript is given code to execute and there are various operations and processes involving two or more elements in different data types, JavaScript will attempt to convert those elements to the same data type and perform the required actions (Tandon 2020). Below are examples of Implicit Coercion performed by JavaScript inside node.js:
+Type Coercion is the process of converting one data type to another (GeeksforGeeks 2020). Type Coercion can be implicit or explicit, the difference being implicit coercion occurs automatically by JavaScript while explicit coercion is explicitly executed through code using the inbuilt functions within JavaScript (FreeCodeCamp 2018). Whenever JavaScript is given code to execute and there are various operations and processes involving two or more elements in different data types, JavaScript will attempt to convert those elements to the same data type and perform the required actions (Tandon 2020). Below are examples of Implicit Coercion performed by JavaScript inside node.js:
 
 ```js
 12 + " " // "12" -> JavaScript converts the 12 into a string type, allowing it to add the two strings together.
@@ -1043,6 +1037,7 @@ for (model of models) {
     console.log(mycar.show());
 }
 ```
+
 ## **Reference List:**
 
 Atlassin, ND, What is version control, atlassian.com, git, tutorials, viewed 7 April 2021,
